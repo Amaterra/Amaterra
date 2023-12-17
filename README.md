@@ -7,6 +7,9 @@ ____
 <img align="left" alt="Bootstrap"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="JavaScript"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
+<img align="left" alt="PHP"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" />
+<img align="left" alt="MySQL"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Wordpress"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/wordpress/wordpress-original.svg" />
 <img align="left" alt="VSC"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" />
 
