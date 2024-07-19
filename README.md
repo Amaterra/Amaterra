@@ -1,4 +1,4 @@
-### Hi! I'm Olesia ✌ and I'm a FrontEnd Developer
+### Hello! I'm Olesia
 ____
 #### My Languages and Tools:
 <img align="left" alt="HTML5"  style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
